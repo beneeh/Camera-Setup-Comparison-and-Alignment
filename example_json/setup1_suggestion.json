@@ -1,0 +1,26 @@
+{
+    "field_origin_x": "2",
+    "field_len_y": "16",
+    "field_len_x": "16",
+    "angle_of_view": "71",
+    "max_distance": "18.75",
+    "cameras": [
+        [
+            "10",
+            "0"
+        ],
+        [
+            "20",
+            "10"
+        ],
+        [
+            "10",
+            "20"
+        ],
+        [
+            "0",
+            "10"
+        ]
+    ],
+    "field_origin_y": "2"
+}

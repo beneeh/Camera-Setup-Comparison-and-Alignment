@@ -1,0 +1,30 @@
+{
+    "field_origin_y": "2",
+    "cameras": [
+        {
+            "y": "0",
+            "x": "0",
+            "alignment_angle": "45"
+        },
+        {
+            "y": "0",
+            "x": "20",
+            "alignment_angle": "135"
+        },
+        {
+            "y": "20",
+            "x": "20",
+            "alignment_angle": "225"
+        },
+        {
+            "y": "20",
+            "x": "0",
+            "alignment_angle": "315"
+        }
+    ],
+    "field_len_y": "16",
+    "field_origin_x": "2",
+    "max_distance": "18.75",
+    "field_len_x": "16",
+    "angle_of_view": "71"
+}
